@@ -1,4 +1,4 @@
-# Identifying Data Trends in Housing and Community Development data of Baltimore, MD. 
+# Identifying Data Trends in Housing and Community Development Data of Baltimore, MD. 
 ## Brief Background Information
 
 ## Business Question and Data Sources
