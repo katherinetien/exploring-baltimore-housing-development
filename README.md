@@ -4,8 +4,8 @@ Baltimore has seen a steady decline in population in recent years, and numbers c
 ## Business Question
 Before delving into the consequences of the city's failing infrastructure, we must first understand the movement of populations. What relationship exists between population growth and prevalence of vacant properties in low-income neighborhoods, and how we use this information to make informed decisions about the future of housing and community development in Baltimore?
 ## Data Sources 
-1. Population Growth Data: 
-1. Vacant Residential Properties Data: [raw dataset](
+1. Population Growth Data: [raw data
+1. Vacant Residential Properties Data: [raw dataset](abandoned_housing.csv) of percentages of residential properties that are vacant and abandoned from 2010-2018 categorized by Community Statistical Areas. Pulled from Baltimore Neighborhood Indicators Alliance, an open data source that measures indicators of quality of life and health of Baltimore neighborhoods.
 1. **baltimore_sf_teenbirth_kathytien.ipynb**: a Google Colaboratory notebook with analysis of Baltimore and San Francisco data. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GX7iNPCCsjkClFRIeE0Mq4gzh6z7852N?usp=sharing)
 ## Data Answer and Stakeholder Recommendation
 
