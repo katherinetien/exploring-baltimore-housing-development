@@ -9,4 +9,6 @@ Before delving into the consequences of the city's failing infrastructure, we mu
 1. **exploring-baltimore-development-crisis-kathytien.ipynb**: a Google Colaboratory notebook with data organization and visualization. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1goyT9-ngpkQ6YYQreq5I2_eODnLVGVb9?usp=sharing)
 ## Data Answer and Stakeholder Recommendation
 ![Alt text](scatter_plot.png)
+
+
 The scatter plot and trendline above shows a slight positive correlation between population growth and percentage of abandoned residential properties. Each point on the plot represents a Community Statistical Area. Efforts by the city government to bolster economic activity and population growth have led to the issue of gentrification - cost of living is driven upwards by an influx of investment have displaced the low-income individuals. Thus, 
