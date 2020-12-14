@@ -4,9 +4,9 @@ Baltimore has seen a steady decline in population in recent years, and numbers c
 ## Business Question
 Before delving into the consequences of the city's failing infrastructure, we must first understand the movement of populations. What relationship exists between population growth and prevalence of vacant properties in low-income neighborhoods, and how we use this information to make informed decisions about the future of housing and community development in Baltimore?
 ## Data Sources 
-1. Population Growth Data: [raw data
-1. Vacant Residential Properties Data: [raw dataset](abandoned_housing.csv) of percentages of residential properties that are vacant and abandoned from 2010-2018 categorized by Community Statistical Areas. Pulled from Baltimore Neighborhood Indicators Alliance, an open data source that measures indicators of quality of life and health of Baltimore neighborhoods.
-1. **baltimore_sf_teenbirth_kathytien.ipynb**: a Google Colaboratory notebook with analysis of Baltimore and San Francisco data. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GX7iNPCCsjkClFRIeE0Mq4gzh6z7852N?usp=sharing)
+1. Population Growth Data: [raw dataset](population_growth.csv) of population percent change from 2010-2015. Pulled from Baltimore Department of Planning [Interactive City Map](https://baltplanning.maps.arcgis.com/apps/webappviewer/index.html?id=d45903fd0a9e4132903920526fcafac7).
+1. Vacant Residential Properties Data: [raw dataset](abandoned_housing.csv) of percentages of residential properties that are vacant and abandoned from 2010-2018 categorized by Community Statistical Areas. Pulled from [Baltimore Neighborhood Indicators Alliance](https://vital-signs-bniajfi.hub.arcgis.com/), an open data source that measures indicators of quality of life and health of Baltimore neighborhoods.
+1. **exploring-baltimore-development-crisis-kathytien.ipynb**: a Google Colaboratory notebook with data organization and visualization. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1goyT9-ngpkQ6YYQreq5I2_eODnLVGVb9?usp=sharing)
 ## Data Answer and Stakeholder Recommendation
 
 ![Alt text](scatter_plot.png)
