@@ -4,3 +4,4 @@ Baltimore has seen a steady decline in population in recent years, and numbers c
 ## Business Question and Data Sources
 
 ## Data Trends and Stakeholder Recommendation
+![Alt text](scatter_plot.png)
